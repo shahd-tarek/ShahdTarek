@@ -4,6 +4,21 @@
 
 ---
 
+## 📊 GitHub Stats
+![Shahd's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahd-tarek&show_icons=true&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=shahd-tarek&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📈 Activity Graph
+[![Shahd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahd-tarek&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ ---
+
 ##  Tech Stack
 - **Languages**: Dart, html, C#
 - **Frameworks**: Flutter
@@ -13,5 +28,3 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/shahd-tarek-f4)  
 - 📧 Shahdt321@gmail.com
 
-
-![Shahd's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahd-tarek&show_icons=true&theme=tokyonight)
