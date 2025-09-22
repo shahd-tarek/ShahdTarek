@@ -12,10 +12,6 @@
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahd-tarek&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-## 📈 Activity Graph
-[![Shahd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahd-tarek&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  ---
 
