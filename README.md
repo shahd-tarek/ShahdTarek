@@ -12,3 +12,6 @@
 ##  Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/shahd-tarek-f4)  
 - 📧 Shahdt321@gmail.com
+
+
+![Shahd's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahd-tarek&show_icons=true&theme=tokyonight)
